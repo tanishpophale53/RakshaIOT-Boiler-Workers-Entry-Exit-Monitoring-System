@@ -10,3 +10,5 @@ So, to address the above problem, RakshaIOT project is built using Python, Linux
 Here are some videos on how RakshaIOT project works in an industry - 
 
 https://youtube.com/shorts/15Zg1Cy8TGI?feature=share
+
+https://youtu.be/_19ov4y1llU
